@@ -10,9 +10,9 @@ module.exports = {
         transparent: 'transparent',
         current: 'currentColor',
         blue: {
-          light: '#93D3F2',
-          DEFAULT: '#1872E4',
-          dark: '#009eeb',
+          light: '#F8C565',
+          DEFAULT: '#F8AF26',
+          dark: '#E59500',
           tenPercent: 'rgba(24, 114, 228, 0.10)',
           fivePercent: 'rgba(24, 114, 228, 0.05)',
         },
